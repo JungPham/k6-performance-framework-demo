@@ -1,6 +1,8 @@
-# cognizant-performance-framework
+# k6-performance-framework
 
-Scenarios to run load tests with containerised instances of K6, Grafana and InfluxDB.
+Scenarios to run load tests with containerised instances of K6, Grafana and InfluxDB. 
+
+Application: https://github.com/auronsiow/oppenheimer-project-dev
 
 ## Getting started
 
